@@ -14,7 +14,7 @@ def minerar(num_bloco, trancacoes, hash_anterior, qtde_zeros):
 
 if __name__ == "__main__":
     num_bloco = 15
-    trancacoes = """Murilo -> Thais"""
+    trancacoes = """Pessoa1 -> Pessoa2"""
     qtde_zeros = 4
     hash_anterior = "abc"
     inicio = time.time()
